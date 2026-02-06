@@ -9,6 +9,9 @@ index.html
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+<audio id="bgMusic" loop>
+  <source src="party.mp3" type="audio/mpeg">
+</audio>
 
   <!-- Ambient Background -->
   <div class="ambient-bg">
